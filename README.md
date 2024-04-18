@@ -1,1 +1,1 @@
-# These are my data analyst projects
+# These are my Data Analyst projects
